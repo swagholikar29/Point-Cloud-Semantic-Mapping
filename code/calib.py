@@ -57,5 +57,5 @@ class Calibration():
 
 
 if __name__ == "__main__":
-    path = "/home/rohiitb/semantic_mapping_icp/dataset/calibration"
+    path = "/home/swagholikar/Point-Cloud-Semantic-Mapping/dataset/calibration"
     calib = Calibration(path)
